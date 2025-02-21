@@ -163,6 +163,11 @@
     "@babel/helper-string-parser" "^7.25.9"
     "@babel/helper-validator-identifier" "^7.25.9"
 
+"@capacitor-community/camera-preview@^7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@capacitor-community/camera-preview/-/camera-preview-7.0.0.tgz#adbbb5132f15c28565b771e9465f12b10efe2789"
+  integrity sha512-rHQ6tjFui+eHNfCCK1O9CwfsAOrMh0eiOvariv4QEhMjhUVHGoxm/TAsz0upGTz50ZXglSDNxuI06yQvt/6zBQ==
+
 "@capacitor/android@^7.0.1":
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-7.0.1.tgz#16c45a305edeb8bcf0b083ea52abcc62ca4e5e70"
